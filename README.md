@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Virtual Galaxy**
 
-- 💬 Ask me about **andriod development**
+- 💬 Ask me about **andriod development** and AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
